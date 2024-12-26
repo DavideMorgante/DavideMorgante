@@ -1,4 +1,4 @@
-## !Hi, I'm Davide Morgante <img src="https://gifer.com/embed/Bfpa" width=480 height=360.000 frameBorder="0" allowFullScreen>
+## !Hi, I'm Davide Morgante <div style="padding-top:75.000%;position:relative;"><img src="https://gifer.com/embed/Bfpa" height="50%" style='position:absolute;top:0;left:0></img></div>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
 
