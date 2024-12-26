@@ -1,4 +1,4 @@
-## Hi, I'm Davide Morgante <img src="https://i.gifer.com/Bfpa.gif" height="70" align="middle" />
+## Hi, I'm Davide Morgante <img src="https://i.gifer.com/Bfpa.gif" height="70" align="middle" hspace=10/>
 
 
 Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for programming and data science. Welcome to my GitHub page!
