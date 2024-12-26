@@ -7,8 +7,6 @@ Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for prog
 - 💬 Ask me about quantum gravity, mathematics, string theory
 - 📫 How to reach me: davide.morgante96@gmail.com
 
-details>
-    <summary> <b> Current Position </b> </summary>
 
 <!--
 <p align="center">
