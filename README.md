@@ -1,6 +1,6 @@
 <h1>
-  <span style="vertical-align: middle"> Hi, I'm Davide Morgante </span>
-  <img src="https://i.gifer.com/Bfpa.gif">
+  <span style="vertical-align: middle;"> Hi, I'm Davide Morgante </span>
+  <img src="https://i.gifer.com/Bfpa.gif" style="vertical-align: middle;" height=70pt>
 </h1>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
