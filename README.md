@@ -1,23 +1,11 @@
 ## Hi, I'm Davide Morgante  <img src="https://i.gifer.com/Bfpa.gif" style="vertical-align: middle;" height="70pt" /> 
 
-I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
-
 Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for programming and data science. Welcome to my GitHub page!
 
 - 🌱 I’m currently studying machine learning fundamentals
 - 💬 Ask me about quantum gravity, mathematics, string theory
 - 📫 How to reach me: davide.morgante96@gmail.com
 
-
-<!--
-<p align="center">
-  <a href="https://home.cern/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/cern.svg" height="60" alt="CERN" /> </a>
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
-  <a href="https://qibo.science/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/qibo.svg" height="50" alt="Qibo" /> </a>
-</p>
--->
-
-</details>
 
 <details>
     <summary> <b> Education </b> </summary>
