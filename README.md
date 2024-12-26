@@ -1,4 +1,6 @@
-## Hi, I'm Davide Morgante 👋
+## Hi, I'm Davide Morgante <img src="https://raw.githubusercontent.com/DavideMorgante/DavideMorgante/master/assets/Presentation.gif" height="50"/>
+
+I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
 
 Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for programming and data science. Welcome to my GitHub page!
 
