@@ -1,4 +1,4 @@
-## !Hi, I'm Davide Morgante<img src="https://media1.tenor.com/m/kVfZfnwNZa0AAAAC/multiverse.gif" height=50pt>
+## !Hi, I'm Davide Morgante<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3EwbTdsazNrajA4eTBiN2cyaGkyeDMycmduZmR5ZDU5MzlucnM4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bb5jcIADH9ewHnpl9/giphy.webp" height=50pt>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
 
