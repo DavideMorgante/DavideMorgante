@@ -1,4 +1,4 @@
-## Hi, I'm Davide Morgante  <p align="center"> <img src="https://i.gifer.com/Bfpa.gif" style="vertical-align: middle;" height="70pt" /> </p>
+## Hi, I'm Davide Morgante  <p align="right"> <img src="https://i.gifer.com/Bfpa.gif" style="vertical-align: middle;" height="70pt" /> </p>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
 
