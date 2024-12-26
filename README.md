@@ -1,3 +1,4 @@
+| Text                              | Image                             |
 |-----------------------------------|-----------------------------------|
 | ## Hi, I'm Davide Morgante        | ![GIF](https://i.gifer.com/Bfpa.gif) |
 
