@@ -2,8 +2,7 @@
 
 Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for programming and data science. Welcome to my GitHub page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning machine learning fundamentals
+- 🌱 I’m currently studying machine learning fundamentals
 - 💬 Ask me about quantum gravity, mathematics, string theory
 - 📫 How to reach me: davide.morgante96@gmail.com
 
@@ -51,7 +50,7 @@ Bachelor:
   grade: 110 cum laude
   start-date: September 2016
   end-date: October 2019
-thesis:
+  thesis:
     title: Semiclassical Transition Amplitudes (orig: Ampiezze Semiclassiche di Transizione)
     supervisor: G. Martinelli
 ```
