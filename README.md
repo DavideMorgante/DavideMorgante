@@ -3,7 +3,7 @@
 
 Hi, I'm Davide Morgante, a trained theoretical physicist with a passion for programming and data science. Welcome to my GitHub page!
 
-- 🌱 I’m currently studying machine learning fundamentals
+- 🌱 I’m currently working as an AI Consultant, specializing in developing business solutions with autonomus agents
 - 💬 Ask me about quantum gravity, mathematics, string theory and more 
 - 📫 How to reach me: davide.morgante96@gmail.com
 
